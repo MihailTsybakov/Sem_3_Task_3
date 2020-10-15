@@ -1,6 +1,8 @@
 #include "SlideWdw.h"
 #include "Test.h"
-
+/*
+Задача № 27
+*/
 int main(void)
 {
     if (Autotest() != 1)
